@@ -1,0 +1,92 @@
+
+8월 01, 2023 09:43:22.443 NEW SESSION
+8월 01, 2023 09:43:22.444 [6084:15984:0801/094322.440:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+8월 01, 2023 10:27:40.86 [6084:22732:0801/102740.086:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+8월 06, 2023 12:14:26.345 NEW SESSION
+8월 06, 2023 12:14:26.346 [6128:32716:0806/121426.343:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+8월 06, 2023 13:08:24.935 [6128:27020:0806/130824.932:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 14:13:25.703 [6128:27020:0806/141325.703:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+8월 06, 2023 14:13:28.716 [6128:27020:0806/141328.716:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 06, 2023 14:13:38.472 [6128:27020:0806/141338.472:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:13:45.712 [6128:27020:0806/141345.712:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:14:01.387 [6128:27020:0806/141401.387:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:14:03.641 [6128:27020:0806/141403.641:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 06, 2023 14:14:24.250 [6128:32716:0806/141424.250:ERROR:device_event_log_impl.cc(222)] [14:14:24.245] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+8월 06, 2023 14:14:28.995 [6128:27020:0806/141428.995:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:14:32.687 [6128:27020:0806/141432.687:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:14:35.252 [6128:27020:0806/141435.252:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:14:57.23 [6128:27020:0806/141457.019:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 06, 2023 14:15:01.809 [6128:27020:0806/141501.809:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:15:16.805 [6128:27020:0806/141516.805:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 06, 2023 14:15:28.200 [6128:27020:0806/141528.200:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:15:42.153 [6128:27020:0806/141542.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:15:54.981 [6128:27020:0806/141554.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 06, 2023 14:16:19.240 [6128:27020:0806/141619.240:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:16:23.998 [6128:27020:0806/141623.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:26:29.171 [6128:27020:0806/142629.169:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 14:27:17.427 [6128:27020:0806/142717.427:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 14:47:49.115 [6128:32716:0806/144749.115:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint (unset) for first_image_paint 0.063 s
+8월 06, 2023 14:47:49.119 [6128:32716:0806/144749.118:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:49.257 [6128:32716:0806/144749.256:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:49.737 [6128:32716:0806/144749.736:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:49.860 [6128:32716:0806/144749.860:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:49.970 [6128:32716:0806/144749.970:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:50.76 [6128:32716:0806/144750.072:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:50.186 [6128:32716:0806/144750.186:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:50.863 [6128:32716:0806/144750.863:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 14:47:50.941 [6128:32716:0806/144750.941:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.067 s for first_image_paint 0.063 s
+8월 06, 2023 15:41:59.182 [6128:27020:0806/154159.179:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 17:47:02.986 [6128:27020:0806/174702.986:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 17:47:05.216 [6128:27020:0806/174705.216:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 06, 2023 17:47:05.220 [6128:31568:0806/174705.220:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 06, 2023 17:53:29.773 [6128:27020:0806/175329.772:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 06, 2023 17:53:29.773 [6128:7276:0806/175329.773:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 06, 2023 18:05:32.650 [6128:27020:0806/180532.650:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 18:05:34.860 [6128:27020:0806/180534.860:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 18:06:36.71 [6128:27020:0806/180636.070:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 18:06:37.376 [6128:27020:0806/180637.376:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 19:02:00.64 [6128:27020:0806/190200.064:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 19:02:03.544 [6128:27020:0806/190203.544:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 19:13:05.506 [6128:27020:0806/191305.506:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 19:31:04.559 [6128:27020:0806/193104.559:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+8월 06, 2023 19:59:44.682 [6128:27020:0806/195944.682:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 20:17:49.707 [6128:27020:0806/201749.707:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+8월 06, 2023 20:17:53.00 [6128:27020:0806/201753.000:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 06, 2023 21:44:38.784 [6128:27020:0806/214438.784:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 06, 2023 21:59:14.931 [6128:18520:0806/215914.931:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 24:08:25.305 [6128:32716:0807/000825.305:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+8월 07, 2023 24:51:35.483 [6128:27020:0807/005135.482:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+8월 07, 2023 02:07:51.75 [6128:27020:0807/020751.074:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+8월 07, 2023 02:07:51.198 [6128:18520:0807/020751.198:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:07:53.410 [6128:27020:0807/020753.410:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:08:03.374 [6128:27020:0807/020803.374:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:08:03.374 [6128:21500:0807/020803.374:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:08:10.614 [6128:27020:0807/020810.614:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:08:10.615 [6128:6752:0807/020810.614:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:08:26.323 [6128:27020:0807/020826.323:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:08:26.323 [6128:23692:0807/020826.323:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:08:28.521 [6128:27020:0807/020828.521:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:08:36.204 [6128:18520:0807/020836.204:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:08:45.154 [6128:27020:0807/020845.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:08:45.155 [6128:23692:0807/020845.154:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:08:48.60 [6128:27020:0807/020848.060:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:08:59.100 [6128:27020:0807/020859.100:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:08:59.101 [6128:6752:0807/020859.100:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:09:41.61 [6128:27020:0807/020941.061:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:09:45.198 [6128:27020:0807/020945.198:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:09:45.200 [6128:18520:0807/020945.199:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:10:17.706 [6128:27020:0807/021017.706:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:10:24.154 [6128:27020:0807/021024.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:10:24.156 [6128:21500:0807/021024.155:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:10:31.611 [6128:27020:0807/021031.610:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:10:31.612 [6128:5988:0807/021031.611:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:10:39.140 [6128:27020:0807/021039.139:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:11:10.158 [6128:27020:0807/021110.156:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:11:10.159 [6128:6752:0807/021110.158:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:11:38.544 [6128:27020:0807/021138.543:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:11:54.694 [6128:27020:0807/021154.693:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:11:54.695 [6128:7276:0807/021154.694:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+8월 07, 2023 02:11:59.609 [6128:27020:0807/021159.609:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 07, 2023 02:12:03.104 [6128:27020:0807/021203.103:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+8월 07, 2023 02:12:03.105 [6128:21500:0807/021203.104:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
